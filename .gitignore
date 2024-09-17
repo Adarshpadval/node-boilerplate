@@ -1,0 +1,82 @@
+# Node modules
+node_modules/
+
+# Logs
+logs/
+*.log
+
+# Runtime data
+pids/
+*.pid
+*.seed
+
+# Directory for instrumented lib/
+lib-cov/
+
+# Coverage directory used by tools like istanbul
+coverage/
+
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional npm cache directory
+.npm/
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+# .env  // 
+
+# Parcel-bundler cache
+.cache/
+
+# Next.js build output
+.next/
+
+# Nuxt.js build output
+.nuxt/
+
+# Gatsby files
+.cache/
+public/
+
+# Serverless directories
+.serverless/
+
+# AWS SAM build directories
+.aws-sam/
+
+# Temporary files
+temp/
+tmp/
+
+# IDE files
+.idea/
+.vscode/
+.DS_Store
+*.swp
+*.swo
+*.swn
+*~
+
+# MacOS files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Windows files
+Thumbs.db
+ehthumbs.db
+
+# Build directories
+build/
+dist/
+
+# Test coverage
+coverage/
+
+# Misc
+*.sublime-workspace
+*.sublime-project
